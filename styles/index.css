@@ -1,0 +1,40 @@
+body {
+    margin: 20%;
+    background-color: rgb(92, 59, 119);
+}
+
+header {
+    background-color: rgba(23, 245, 2, 0.2);
+    font-size: 50px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+}
+
+section {
+    color: rgb(214, 170, 26);
+}
+
+.hero {
+    color: #fff;
+    background-color: #f00;
+}
+
+.products{
+    
+    background-color: #fff;
+}
+
+.price {
+    color: red;
+}
+
+.product_item img {
+    width: 200px;
+    height: 200px;
+    object-fit: fill;
+    border-radius: 12px;
+}
+.product_item {
+    
+    border: 2px solid blue;
+}
